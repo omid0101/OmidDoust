@@ -1,6 +1,11 @@
-# Omid Mohaghegh Doust 
+Omid Mohaghegh Doust, omid.doust2@gmail.com, last update on 2021-07-14
 
- Backend project related to course: Become a backend expert provided by simplilearn - 2021
+Full Stack Java Developper- Developing a Backend Admin for Learner’s Academy project related to course: Become a back-end expert provided by simplilearn - 2021
+
+Git Repository: https://github.com/omid0101/OmidDoust
+
+
+This project was performed in 4 sprints as following:
 
 1st Sprint: Goal was to build backend mapping objects and examine CRUD on one of them (Class Object in this case, object name:Schoolcls.java in com.entities folder).
 MyBackgroundProject-1 and Sprint One folders are related to 1st Sprint.
